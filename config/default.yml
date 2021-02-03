@@ -3,3 +3,9 @@
 AllCops:
   TargetRubyVersion: 2.7
   NewCops: enable
+  Exclude:
+    - 'node_modules/**/*'
+    - 'tmp/**/*'
+    - 'vendor/**/*'
+    - '.git/**/*'
+    - 'yarn_cache/**/*'
