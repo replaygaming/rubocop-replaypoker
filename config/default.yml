@@ -1,1 +1,4 @@
 # Write it!
+
+AllCops:
+  TargetRubyVersion: 2.7
