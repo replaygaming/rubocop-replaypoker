@@ -9,3 +9,6 @@ AllCops:
     - 'vendor/**/*'
     - '.git/**/*'
     - 'yarn_cache/**/*'
+
+Style/TrailingCommaInArguments:
+  EnforcedStyleForMultiline: consistent_comma
