@@ -12,3 +12,6 @@ AllCops:
 
 Style/TrailingCommaInArguments:
   EnforcedStyleForMultiline: consistent_comma
+
+Style/TernaryParentheses:
+  EnforcedStyle: require_parentheses_when_complex
