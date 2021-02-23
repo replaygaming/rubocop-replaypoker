@@ -24,3 +24,6 @@ Style/TernaryParentheses:
 
 Style/SymbolArray:
   EnforcedStyle: brackets
+
+Style/RescueModifier:
+  Enabled: false
