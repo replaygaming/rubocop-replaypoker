@@ -27,3 +27,8 @@ Style/SymbolArray:
 
 Style/RescueModifier:
   Enabled: false
+
+Style/PercentLiteralDelimiters:
+  PreferredDelimiters:
+    '%w': '()'
+    '%W': '()'
