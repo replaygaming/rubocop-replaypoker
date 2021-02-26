@@ -32,3 +32,6 @@ Style/PercentLiteralDelimiters:
   PreferredDelimiters:
     '%w': '()'
     '%W': '()'
+
+Style/RaiseArgs:
+  EnforcedStyle: compact
