@@ -38,3 +38,6 @@ Style/RaiseArgs:
 
 Style/NestedTernaryOperator:
   Enabled: false
+
+Layout/SpaceInsideHashLiteralBraces:
+  EnforcedStyle: no_space
