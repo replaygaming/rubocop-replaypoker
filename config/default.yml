@@ -48,3 +48,6 @@ Layout/SpaceInsideBlockBraces:
 
 Layout/MultilineMethodCallBraceLayout:
   EnforcedStyle: new_line
+
+Layout/MultilineMethodCallIndentation:
+  EnforcedStyle: indented
