@@ -51,3 +51,6 @@ Layout/MultilineMethodCallBraceLayout:
 
 Layout/MultilineMethodCallIndentation:
   EnforcedStyle: indented
+
+Layout/HeredocIndentation:
+  Enabled: false
