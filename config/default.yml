@@ -51,3 +51,6 @@ Layout/MultilineMethodCallIndentation:
 
 Layout/HeredocIndentation:
   Enabled: false
+
+Layout/FirstHashElementIndentation:
+  EnforcedStyle: consistent
