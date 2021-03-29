@@ -57,3 +57,6 @@ Layout/FirstHashElementIndentation:
 
 Layout/FirstArrayElementIndentation:
   EnforcedStyle: consistent
+
+Layout/FirstArgumentIndentation:
+  EnforcedStyle: consistent
