@@ -54,3 +54,6 @@ Layout/HeredocIndentation:
 
 Layout/FirstHashElementIndentation:
   EnforcedStyle: consistent
+
+Layout/FirstArrayElementIndentation:
+  EnforcedStyle: consistent
