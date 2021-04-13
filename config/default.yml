@@ -43,9 +43,6 @@ Layout/SpaceInsideBlockBraces:
   EnforcedStyle: no_space
   SpaceBeforeBlockParameters: false
 
-Layout/MultilineMethodCallBraceLayout:
-  EnforcedStyle: same_line
-
 Layout/MultilineMethodCallIndentation:
   EnforcedStyle: indented
 
