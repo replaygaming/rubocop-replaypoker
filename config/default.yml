@@ -68,3 +68,5 @@ Bundler/OrderedGems:
 Style/Documentation:
   Enabled: false
 
+Style/FormatStringToken:
+  EnforcedStyle: template
