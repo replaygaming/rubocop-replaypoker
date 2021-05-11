@@ -70,3 +70,8 @@ Style/Documentation:
 
 Style/FormatStringToken:
   EnforcedStyle: template
+
+Lint/ConstantDefinitionInBlock:
+  Exclude:
+  - 'spec/**/*'
+  - 'lib/tasks/**/*'
