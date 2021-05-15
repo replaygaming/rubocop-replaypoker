@@ -75,3 +75,6 @@ Lint/ConstantDefinitionInBlock:
   Exclude:
   - 'spec/**/*'
   - 'lib/tasks/**/*'
+
+Metrics/PerceivedComplexity:
+  Max: 12
