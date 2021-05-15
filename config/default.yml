@@ -78,3 +78,6 @@ Lint/ConstantDefinitionInBlock:
 
 Metrics/PerceivedComplexity:
   Max: 12
+
+Metrics/ModuleLength:
+  Max: 250
