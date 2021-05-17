@@ -87,3 +87,6 @@ Metrics/MethodLength:
 
 Metrics/CyclomaticComplexity:
   Max: 12
+
+Metrics/ClassLength:
+  Max: 200
