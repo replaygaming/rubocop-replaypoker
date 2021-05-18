@@ -39,10 +39,6 @@ Style/NestedTernaryOperator:
 Layout/SpaceInsideHashLiteralBraces:
   EnforcedStyle: no_space
 
-Layout/SpaceInsideBlockBraces:
-  EnforcedStyle: no_space
-  SpaceBeforeBlockParameters: false
-
 Layout/MultilineMethodCallIndentation:
   EnforcedStyle: indented
 
