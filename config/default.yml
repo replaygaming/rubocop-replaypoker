@@ -93,3 +93,8 @@ Metrics/ClassLength:
 
 Metrics/AbcSize:
   Max: 40
+
+Lint/AmbiguousBlockAssociation:
+  IgnoredMethods:
+    - change
+    - not_change
